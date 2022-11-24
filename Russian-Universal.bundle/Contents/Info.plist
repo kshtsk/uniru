@@ -11,7 +11,7 @@
 	<key>KLInfo_Universal Russian</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
